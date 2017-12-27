@@ -34,9 +34,9 @@ contains the raw acceleration data of user #26 who is Male, recorded in the sess
 
 There are three types of data in this dataset:
 
-1. **BMA 150 3-axis Accelerometer**: raw acceleration data which also capture the influence of gravity. Each line consists of 4 components, separated by a comma (,), including the timestamp, the x-dimensional value (a_x), y-dimensional value (a_y), and z-dimensional value (a_z), respectively. The values of x,y, z dimensions are in g unit (i.e. 1g = 9.8 m/s2).
+1. **BMA 150 3-axis Accelerometer**: raw acceleration data which also *capture the influence of gravity*. Each line consists of 4 components separated by a comma (,) including (i) the timestamp, (ii) the x-dimensional value a_x, (iii) y-dimensional value a_y, and (iv) z-dimensional value a_z. Those values are in g unit (i.e. 1g = 9.8 m/s2).
 
-2. **Linear Acceleration Sensor**: acceleration data in which the influence of gravity is completely removed. Each line consists of 4 components, separated by a comma (,), including the timestamp, the x-dimensional value (a_x), y-dimensional value (a_y), and z-dimensional value (a_z), respectively. The values of x,y, z dimensions are in g unit (i.e. 1g = 9.8 m/s2).
+2. **Linear Acceleration Sensor**: acceleration data in which *the influence of gravity is completely removed*. Each line consists of 4 components separated by a comma (,) including (i) the timestamp, (ii) the x-dimensional value a_x, (iii) y-dimensional value a_y, and (iv) z-dimensional value a_z. Those values are in g unit (i.e. 1g = 9.8 m/s2).
 
 3. **Rotation Matrix**: contains 9 elements in the 3x3 rotation matrix as presented in the paper.
 
