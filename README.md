@@ -11,7 +11,7 @@ The main functions are located in mainAuthentication.m (for authentication schem
 
 
 # Dataset
-## IMPORTANT NOTE: The dataset is only used for academic or research purposes. The authors do not allow anyone to use this dataset for any commercial purposes.
+### IMPORTANT NOTE: The dataset is only used for academic or research purposes. The authors do not allow anyone to use this dataset for any commercial purposes.
 
 The dataset is located in ``DATASET`` folder, which contain gait signals of 38 users and is collected according to the following configurations
 
