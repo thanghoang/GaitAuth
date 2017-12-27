@@ -48,7 +48,7 @@ Any use of this implementation and dataset should cite our paper according to th
 Hoang, T., Choi, D. and Nguyen, T., On the instability of sensor orientation in gait verification on mobile phone. In 12th IEE E International Joint Conference on e-Business and Telecommunications (ICETE), 4 (2015): 148-159.
 
 
-### bibtex
+### Bibtex format
 
 @inproceedings{hoang2015instability,
   title={On the instability of sensor orientation in gait verification on mobile phone},
