@@ -12,4 +12,4 @@ The dataset is located in ``DATASET`` folder. Please refer to ``readme.md`` insi
 The main functions are located in mainAuthentication.m (for authentication scheme) and mainRecognition.m (for recognition scheme)
 
 # Further Information
-For any inquiries, bugs, and assistance on building and running the code, please contact Thang Hoang (hoangmin@oregonstate.edu).
+For any inquiries, bugs, and assistance regarding using the code, please contact Thang Hoang (hoangmin@oregonstate.edu).
