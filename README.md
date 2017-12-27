@@ -41,6 +41,13 @@ There are three types of data in this dataset:
 3. **Rotation Matrix**: contains 9 elements in the 3x3 rotation matrix as presented in the paper.
 
 
+# Citing
+
+Any use of this implementation and dataset should cite the following paper:
+
+``
+Hoang, T., Choi, D. and Nguyen, T., On the instability of sensor orientation in gait verification on mobile phone. In12th IEE E International Joint Conference on e-Business and Telecommunications (ICETE), 4 (2015): 148-159.
+``
 
 # Further Information
 For any inquiries, bugs, and assistance regarding using the code, please contact Thang Hoang (hoangmin@oregonstate.edu).
