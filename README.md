@@ -45,9 +45,8 @@ There are three types of data in this dataset:
 
 Any use of this implementation and dataset should cite our paper according to the following format:
 
-``
 Hoang, T., Choi, D. and Nguyen, T., On the instability of sensor orientation in gait verification on mobile phone. In 12th IEE E International Joint Conference on e-Business and Telecommunications (ICETE), 4 (2015): 148-159.
-``
+
 
 ### bibtex
 
