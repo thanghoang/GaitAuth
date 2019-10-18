@@ -3,7 +3,7 @@ Implementation of Authentication Scheme using Gait Signals Captured from Acceler
 
 # Prerequistite Library
 
-1. libSVM (download link: https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+1. libSVM (download link: https://www.csie.ntu.edu.tw/~cjlin/libsvm/). If the latest version does not work, please try v.3.15 (https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles/)
 
 
 # Usage
@@ -45,19 +45,28 @@ There are three types of data in this dataset:
 
 Any use of this implementation and dataset should cite our paper according to the following format:
 
-Hoang, T., Choi, D. and Nguyen, T., On the instability of sensor orientation in gait verification on mobile phone. In 12th IEE E International Joint Conference on e-Business and Telecommunications (ICETE), 4 (2015): 148-159.
+Thang Hoang, Deokjai Choi and Thuc Nguyen, "On the instability of sensor orientation in gait verification on mobile phone", in Proceedings of the 12th International Conference on Security and Cryptography (SECRYPT 2015), pp. 148--159, 2015.
 
 
 ### Bibtex format
 
-@inproceedings{hoang2015instability,
-  title={On the instability of sensor orientation in gait verification on mobile phone},
-  author={Hoang, Thang and Choi, Deokjai and Nguyen, Thuc},
-  booktitle={e-Business and Telecommunications (ICETE), 2015 12th International Joint Conference on},
-  volume={4},
-  pages={148--159},
-  year={2015},
-  organization={IEEE}
+@inproceedings{DBLP:conf/secrypt/HoangCN15,
+  author    = {Thang Hoang and
+               Deokjai Choi and
+               Thuc Dinh Nguyen},
+  title     = {On the Instability of Sensor Orientation in Gait Verification on Mobile
+               Phone},
+  booktitle = {{SECRYPT} 2015 - Proceedings of the 12th International Conference
+               on Security and Cryptography, Colmar, Alsace, France, 20-22 July,
+               2015.},
+  pages     = {148--159},
+  year      = {2015},
+  crossref  = {DBLP:conf/secrypt/2015},
+  url       = {https://doi.org/10.5220/0005572001480159},
+  doi       = {10.5220/0005572001480159},
+  timestamp = {Sun, 21 May 2017 00:21:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/secrypt/HoangCN15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 # Further Information
