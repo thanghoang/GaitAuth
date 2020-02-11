@@ -41,15 +41,12 @@ There are three types of data in this dataset:
 3. **Rotation Matrix**: contains 9 elements in the 3x3 rotation matrix as presented in the paper.
 
 
-# Citing
 
-Any use of this implementation and dataset should cite our paper according to the following format:
+## Citing
 
-Thang Hoang, Deokjai Choi and Thuc Nguyen, "On the instability of sensor orientation in gait verification on mobile phone", in Proceedings of the 12th International Conference on Security and Cryptography (SECRYPT 2015), pp. 148--159, 2015.
+If the code and the dataset are found useful, we would be appreciated if our paper can be cited with the following bibtex format 
 
-
-### Bibtex format
-
+```
 @inproceedings{DBLP:conf/secrypt/HoangCN15,
   author    = {Thang Hoang and
                Deokjai Choi and
@@ -68,6 +65,7 @@ Thang Hoang, Deokjai Choi and Thuc Nguyen, "On the instability of sensor orienta
   biburl    = {https://dblp.org/rec/bib/conf/secrypt/HoangCN15},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 # Further Information
 For any inquiries, bugs, and assistance regarding using the code, please contact me at  [hoangm@mail.usf.edu](mailto:hoangm@mail.usf.edu?Subject=[GaitAuth]%20Inquriy).
