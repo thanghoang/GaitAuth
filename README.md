@@ -70,4 +70,4 @@ Thang Hoang, Deokjai Choi and Thuc Nguyen, "On the instability of sensor orienta
 }
 
 # Further Information
-For any inquiries, bugs, and assistance regarding using the code, please contact me at [hoangm@mail.usf.edu](hoangm@mail.usf.edu).
+For any inquiries, bugs, and assistance regarding using the code, please contact me at  [hoangm@mail.usf.edu](mailto:hoangm@mail.usf.edu?Subject=[GaitAuth]%20Inquriy)..
