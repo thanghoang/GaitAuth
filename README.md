@@ -1,9 +1,9 @@
 # GaitAuth
-Implementation of Authentication Scheme using Gait Signals Captured from Accelerometer. The full paper is available at http://ieeexplore.ieee.org/abstract/document/7518029/ (free version: https://arxiv.org/abs/1602.03199).
+Implementation of Authentication Scheme using Gait Signals Captured from Accelerometer. The full paper is available [here](http://ieeexplore.ieee.org/abstract/document/7518029/) (free version [here](https://arxiv.org/abs/1602.03199)).
 
 # Prerequistite Library
 
-1. libSVM (download link: https://www.csie.ntu.edu.tw/~cjlin/libsvm/). If the latest version does not work, please try v.3.15 (https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles/)
+1. [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/). If the latest version does not work, please try [v.3.15](https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles/)
 
 
 # Usage
@@ -15,7 +15,7 @@ The main functions are located in mainAuthentication.m (for authentication schem
 
 The dataset is located in ``DATASET`` folder, which contain gait signals of 38 users and is collected according to the following configurations
 
-* Device: Google Nexus One Mobile Phone (specs: http://en.wikipedia.org/wiki/Nexus_One)
+* Device: [Google Nexus One Mobile Phone](http://en.wikipedia.org/wiki/Nexus_One)
 * Platform: Android 2.3
 * Physical sensors used: Accelerometer , Magnetometer
 * Sampling rate: 27 Hz  with the configuration of SENSOR_DELAY_FASTEST in Android SDK
@@ -70,4 +70,4 @@ Thang Hoang, Deokjai Choi and Thuc Nguyen, "On the instability of sensor orienta
 }
 
 # Further Information
-For any inquiries, bugs, and assistance regarding using the code, please contact Thang Hoang (hoangmin@oregonstate.edu).
+For any inquiries, bugs, and assistance regarding using the code, please contact me at [hoangm@mail.usf.edu](hoangm@mail.usf.edu).
